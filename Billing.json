@@ -1,0 +1,32 @@
+{
+  "billing": [
+    {
+      "Order_id": 101,
+      "Billing_ID": 1,
+      "Total_Amount": 1500.75,
+      "Transaction_Status": "COMPLETED",
+      "Payment_mode": "CREDIT_CARD",
+      "Created_at": "2023-05-15T08:30:00",
+      "updated_at": "2023-05-15T08:30:00"
+    },
+    {
+      "Order_id": 102,
+      "Billing_ID": 2,
+      "Total_Amount": 250,
+      "Transaction_Status": "PENDING",
+      "Payment_mode": "UPI",
+      "Created_at": "2024-01-20T14:45:00",
+      "updated_at": "2024-01-20T14:45:00"
+    },
+    {
+      "id": "8618",
+      "product_name": "Margherita Pizza",
+      "price": 9.99,
+      "quantity": "8",
+      "total_amount": 79.92,
+      "billing_id": 3,
+      "created_at": "2024-05-30T11:17:37.923Z",
+      "updated_at": "2024-05-30T11:17:37.923Z"
+    }
+  ]
+}

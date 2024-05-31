@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "product_id": 1,
+      "product_name": "Margherita Pizza",
+      "price": 9.99,
+      "stock_quantity": 20,
+      "id": "6ebb"
+    },
+    {
+      "product_id": 2,
+      "product_name": "Spaghetti Carbonara",
+      "price": 12.49,
+      "stock_quantity": 15,
+      "id": "d750"
+    },
+    {
+      "product_id": 3,
+      "product_name": "Chicken Alfredo",
+      "price": 14.99,
+      "stock_quantity": 18,
+      "id": "667b"
+    },
+    {
+      "product_id": 4,
+      "product_name": "Classic Burger",
+      "price": 8.99,
+      "stock_quantity": 25,
+      "id": "bb6b"
+    },
+    {
+      "product_id": 5,
+      "product_name": "Caesar Salad",
+      "price": 7.49,
+      "stock_quantity": 20,
+      "id": "8b8a"
+    },
+    {
+      "id": "dc29",
+      "product_name": "chicken 65",
+      "price": "23",
+      "stock_quantity": "21",
+      "product_id": 6
+    },
+    {
+      "id": "c60b",
+      "product_name": "chicken tikka",
+      "price": "23",
+      "stock_quantity": "2",
+      "product_id": 7
+    }
+  ]
+}

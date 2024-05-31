@@ -1,0 +1,58 @@
+{
+  "orders": [
+    {
+      "id": "23c0",
+      "Customer_name": "Peter",
+      "Phone_number": "123456780",
+      "products": [
+        {
+          "product_name": "Margherita Pizza",
+          "quantity": "2",
+          "price": 9.99,
+          "total_amount": 19.98
+        },
+        {
+          "product_name": "Spaghetti Carbonara",
+          "quantity": "2",
+          "price": 12.49,
+          "total_amount": 24.98
+        }
+      ],
+      "total_amount": 44.96
+    },
+    {
+      "id": "9bb8",
+      "Customer_name": "Richa",
+      "Phone_number": "9984567890",
+      "products": [
+        {
+          "product_name": "Chicken Alfredo",
+          "quantity": "3",
+          "price": 14.99,
+          "total_amount": 44.97
+        },
+        {
+          "product_name": "Spaghetti Carbonara",
+          "quantity": "2",
+          "price": 12.49,
+          "total_amount": 24.98
+        }
+      ],
+      "total_amount": 69.95
+    },
+    {
+      "id": "dc05",
+      "Customer_name": "loukya",
+      "Phone_number": "1234567890",
+      "products": [
+        {
+          "product_name": "Classic Burger",
+          "quantity": "2",
+          "price": 8.99,
+          "total_amount": 17.98
+        }
+      ],
+      "total_amount": 17.98
+    }
+  ]
+}
